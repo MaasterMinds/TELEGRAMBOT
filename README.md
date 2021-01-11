@@ -1,5 +1,5 @@
 # TELEGRAMBOT
-## Code written in pyhton to control home appliances with telegram using telepot library
+## Code written in python to control home appliances with telegram using telepot library
 
 Use this code in Raspberry Pi and control home appliances with the help of GPIO pins.
 
@@ -14,4 +14,4 @@ Make sure to install:-
 
 
 
-code written by: <i> "MALLIKARJUNAIAH K" and "RAJESH N" <\i>
+code written by: <i> "MALLIKARJUNAIAH K" and "RAJESH N"
